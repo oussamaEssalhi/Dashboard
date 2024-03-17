@@ -1,0 +1,38 @@
+.souce-leads{
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.souce-leads h3{
+margin-bottom: 30px;
+}
+.souce-leads .chart{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  height: 100%;
+}
+.options ul{
+display: flex;
+justify-content: space-between;
+}
+.options ul li{
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+}
+.options .option{
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  margin-bottom: 10px;
+}
+.options .option .cercle{
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+.options .option .title{
+  font-size: 12px;
+}

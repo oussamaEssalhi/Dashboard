@@ -1,0 +1,41 @@
+
+.top-bar h1 {
+  margin-bottom: 10px;
+}
+.top-bar ul {
+  padding: 20px 10px 20px 20px;
+  overflow-y: auto;
+}
+.top-bar ul li {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+.top-bar ul li img {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+.top-bar ul li .lead {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+.top-bar ul li .details-deal{
+  display: flex;
+  flex-direction: column;
+  gap: 5px;
+}
+.top-bar ul li .details-deal span {
+  font-size: 12px;
+}
+.top-bar ul li .details-deal span:first-child {
+  font-weight: 700;
+  font-size: 14px;
+}
+.top-bar ul li .price {
+  font-family: "Times New Roman", Times, serif;
+  font-weight: 700;
+}

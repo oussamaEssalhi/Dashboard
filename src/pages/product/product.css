@@ -1,0 +1,25 @@
+.product{
+  /* margin-top: 10px; */
+}
+.product .product-info{
+display: flex;
+align-items: center;
+justify-content: space-between;
+}
+.product .product-info h1{
+  color: var(--soft-dark-color);
+}
+.product .product-info button{
+  padding:5px 10px;
+  background-color: transparent;
+  outline: none;
+  border: 1px double green;
+  color: green;
+  cursor: pointer;
+}
+.img-product{
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+}

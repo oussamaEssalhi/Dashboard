@@ -1,0 +1,12 @@
+.box-visit{
+  width: 100%;
+  height: 100%;
+}
+.box-visit .title{
+color:var(--soft-dark-color);
+margin-bottom: 10px;
+}
+.box-visit .chart{
+  height: 100%;
+  width: 100%;
+}

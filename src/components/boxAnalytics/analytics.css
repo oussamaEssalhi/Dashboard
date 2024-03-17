@@ -1,0 +1,13 @@
+.analytic {
+  width: 100%;
+  height: 100%;
+}
+.analytic .title {
+  color: var(--primary-color);
+  margin-bottom: 20px;
+}
+.analytic .chart {
+  width: 100%;
+  height: 90%;
+
+}

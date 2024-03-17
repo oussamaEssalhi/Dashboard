@@ -1,0 +1,23 @@
+.users{
+width: 100%;
+}
+.users .user-info{
+  width: 99%;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.users .user-info h1{
+  color: var(--soft-dark-color);
+}
+.users .user-info button{
+  padding:5px 10px;
+  background-color: transparent;
+  outline: none;
+  border: 1px double green;
+  color: green;
+  cursor: pointer;
+}
+.users .table .table-grid{
+color: white;
+}
