@@ -23,7 +23,7 @@ const NavBar = () => {
           <span>4</span>
         </div>
         <div className="link user">
-          <img src="/img/image 17.png" alt="" />
+          <img src="https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1600" alt="user avatar" />
           <span>Tomas</span>
         </div>
         <div className="link">
